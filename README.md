@@ -2,8 +2,15 @@
 
 This game was developed by a small team for the study project at HAW-Landshut.
 
+My Teammembers are:
+
 Lieberwolf: https://github.com/Lieberwolf
+
 Flunilo: https://github.com/Flunilo
+
+Trailer of the Game
+
+https://www.youtube.com/watch?v=4HLoID8gSGA
 
 Basics
 
